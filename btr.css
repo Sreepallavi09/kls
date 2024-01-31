@@ -1,0 +1,13 @@
+.container div {
+    flex: 1;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px; /* Add this line */
+  }
+  h1{
+    text-align: center;
+  }
+  P{
+color: crimson;
+  }
